@@ -9,6 +9,7 @@ This repository holds my programming projects done during the period of stanCode
 * [baby_name_ranking_searching_system](https://github.com/nano19595/stanCode_projects_SC101/tree/main/stanCode_projects_SC101/baby_name_ranking_searching_system)
   * data structure 
   * visualization: tkinter
+  * web crawling(extension.py)
 
 * [anagram_game](https://github.com/nano19595/stanCode_projects_SC101/tree/main/stanCode_projects_SC101/anagram_game)
   * recursion

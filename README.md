@@ -4,7 +4,7 @@ Hello there,
 
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my [DEMO VIDEOS]!(https://drive.google.com/drive/folders/1cxHy-ISk9fS147xfG1uUQu6mLmPl1fkx?usp=sharing)
+Watch my [DEMO VIDEOS](https://drive.google.com/drive/folders/1cxHy-ISk9fS147xfG1uUQu6mLmPl1fkx?usp=sharing)!
 
 
 * [breakout_game](https://github.com/nano19595/stanCode_projects_SC101/tree/main/stanCode_projects_SC101/breakout_game)

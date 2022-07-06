@@ -2,7 +2,7 @@
 Hello there,\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-* [breakout_game]
+* [breakout_game]()
   * object-oriented programming: create Class and set attributes and methods by myself 
   * animation
 
@@ -14,4 +14,4 @@ This repository holds my programming projects done during the period of stanCode
   * recursion
 
 * [boggle_game]
- * recursion
+  * recursion
